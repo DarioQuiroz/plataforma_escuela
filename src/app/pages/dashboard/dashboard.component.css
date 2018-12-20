@@ -1,0 +1,47 @@
+#matematicas{
+    height: 300px;
+    width: 550px;
+    background-image: url(../../../assets/images/matematicas.jpg);
+    color: white;
+    opacity: 0.9;
+   font-family: 'Spicy Rice', cursive;
+    font-size: 50px;
+    
+    
+}
+#espanol{
+    height: 300px;
+    width: 550px;
+    background-image: url(../../../assets/images/espanol.jpg);
+    background-size: contain;
+    color: black;
+    opacity: 0.9;
+    font-family: 'Spicy Rice', cursive;
+    font-size: 50px;
+    
+}
+#ciencias{
+    height: 300px;
+    width: 550px;
+    background-image: url(../../../assets/images/Ciencias.jpg);
+    background-size: contain;
+    color: black;
+    opacity: 0.9;
+    font-family: 'Spicy Rice', cursive;
+    font-size: 50px;
+}
+#historia{
+    height: 300px;
+    width: 550px;
+    background-image: url(../../../assets/images/historia.jpg);
+    background-size: contain;
+    color: black;
+    opacity: 0.9;
+    font-family: 'Spicy Rice', cursive;
+    font-size: 50px;
+}
+
+.col-centrada{
+    float: none;
+    margin: 0 auto;
+}
